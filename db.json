@@ -10,6 +10,15 @@
       "id": "1SfcpmSLl3ot4mc7Z-7ql"
     },
     {
+      "title": "Cheddar Meksika Papadias",
+      "composition": "Pizza sousu, Yaşıl Bibər, Qril Toyuğu, Mozzarella, Cheddar, Halapeno",
+      "img": "https://order.papajohns.az/images/menu/PJ%20Azerbaijan/336x224_5cf3c3909a3c5fa466dc6ed16c5836cc.jpg",
+      "price": "9",
+      "category": "papadias",
+      "variations": [],
+      "id": "cbz3BHsR1j8F7J4mmjx9a"
+    },
+    {
       "title": "Dabl Cheddar Çizburger Papadias",
       "composition": "1000 Ada sousu, Mal Əti, Pomidor, Mozzarella və Cheddar Pendirləri",
       "img": "https://order.papajohns.az/images/menu/PJ%20Azerbaijan/336x224_978162a01eda0042ae1707bf563ac3e0.jpg",
@@ -98,6 +107,102 @@
         }
       ],
       "id": "eqtdV7d1X33VkB9rOC_Jd"
+    },
+    {
+      "title": "Qril Çiken Parmezan",
+      "composition": "Pizza sousu, Sarımsaqlı Parmezan sousu, Qril Toyuğu, Vetçina, Pomidor, Mozzarella, Halapeno Bibəri.",
+      "img": "https://order.papajohns.az/images/menu/PJ%20Azerbaijan/336x224_f077c7209864bc10ba687d9c5fd2bd54.jpg",
+      "price": "5.5",
+      "subcategory": [
+        "hot"
+      ],
+      "category": "pizza",
+      "variations": [
+        {
+          "type": "Ənənəvi",
+          "price": "5.5",
+          "size": "Mini pizza, 15 sm -  5.5 M"
+        },
+        {
+          "type": "Nazik",
+          "price": "11",
+          "size": "Kiçik, 23 sm -  11 M"
+        },
+        {
+          "type": "Ənənəvi",
+          "price": "11",
+          "size": "Kiçik, 23 sm -  11 M"
+        },
+        {
+          "type": "Nazik",
+          "price": "17",
+          "size": "Orta, 30 sm -  17 M"
+        },
+        {
+          "type": "Ənənəvi",
+          "price": "17",
+          "size": "Orta, 30 sm -  17 M"
+        },
+        {
+          "type": "Ənənəvi",
+          "price": "21",
+          "size": "Böyük, 35 sm -  21 M"
+        },
+        {
+          "type": "Nazik",
+          "price": "21",
+          "size": "Böyük, 35 sm -  21 M"
+        }
+      ],
+      "id": "tMcRbeMZzjbSUWZVSmxAW"
+    },
+    {
+      "title": "Amerikan Hot",
+      "composition": "Pizza Sousu, Mozzarella, Pepperoni, Halapeno Bibəri",
+      "img": "https://order.papajohns.az/images/menu/PJ%20Azerbaijan/336x224_ec836ad55fb828a2816c7f52d317cabb.jpg",
+      "price": "5.5",
+      "subcategory": [
+        "hot"
+      ],
+      "category": "pizza",
+      "variations": [
+        {
+          "type": "Ənənəvi",
+          "price": "5.5",
+          "size": "Mini pizza, 15 sm -  5.5 M"
+        },
+        {
+          "type": "Ənənəvi",
+          "price": "9",
+          "size": "Kiçik, 23 sm -  9 M"
+        },
+        {
+          "type": "Ənənəvi",
+          "price": "14",
+          "size": "Orta, 30 sm -  14 M"
+        },
+        {
+          "type": "Ənənəvi",
+          "price": "19",
+          "size": "Böyük, 35 sm -  19 M"
+        },
+        {
+          "type": "Nazik",
+          "price": "14",
+          "size": "Orta, 30 sm -  14 M"
+        },
+        {
+          "type": "Nazik",
+          "price": "19",
+          "size": "Böyük, 35 sm -  19 M"
+        },
+        {
+          "type": "Nazik",
+          "price": "9",
+          "size": "Kiçik, 23 sm -  9 M"
+        }
+      ],
+      "id": "4W3O5ET9thkewAEFAej-J"
     },
     {
       "title": "Acılı Çiken Ranç",
@@ -452,6 +557,54 @@
         }
       ],
       "id": "6aG4F1Sdx6hxSmpaxRomx"
+    },
+    {
+      "title": "Çiken Barbekyu",
+      "composition": "Pizza sousu, Qril Toyuğu, Göbələk, Barbekyu Sousu, Mozzarella ",
+      "img": "https://order.papajohns.az/images/menu/PJ%20Azerbaijan/336x224_15135b56809cd2a5d12ca173e680e81e.jpg",
+      "price": "5.5",
+      "subcategory": [
+        "cheeken"
+      ],
+      "category": "pizza",
+      "variations": [
+        {
+          "type": "Ənənəvi",
+          "price": "5.5",
+          "size": "Mini pizza, 17 sm -  5.5 M"
+        },
+        {
+          "type": "Ənənəvi",
+          "price": "10",
+          "size": "Kiçik, 23 sm -  10 M"
+        },
+        {
+          "type": "Ənənəvi",
+          "price": "16",
+          "size": "Orta, 30 sm -  16 M"
+        },
+        {
+          "type": "Nazik",
+          "price": "10",
+          "size": "Kiçik, 23 sm -  10 M"
+        },
+        {
+          "type": "Nazik",
+          "price": "16",
+          "size": "Orta, 30 sm -  16 M"
+        },
+        {
+          "type": "Ənənəvi",
+          "price": "22",
+          "size": "Böyük, 35 sm -  22 M"
+        },
+        {
+          "type": "Nazik",
+          "price": "22",
+          "size": "Böyük, 35 sm -  22 M"
+        }
+      ],
+      "id": "Jg8nHSg8MLUK9jrh0pAtH"
     },
     {
       "title": "Meksika",
@@ -1631,11 +1784,12 @@
       "id": "RfbfLtlrFUnPIZYrjkP94"
     },
     {
-      "title": "Sarımsaq Sousu",
       "img": "https://order.papajohns.az/images/menu/PJ%20Azerbaijan/336x224_51dc048ab0369b7f4589493eb65318ba.jpg",
-      "category": "souses",
+      "title": "Sarımsaq Sousu",
       "composition": "",
       "price": "0.8",
+      "category": "souses",
+      "variations": [],
       "id": "VJJtPIERk_JdyXCxqyWES"
     },
     {
@@ -1806,47 +1960,47 @@
   ],
   "category": [
     {
-      "id": "222",
+      "id": 222,
       "category": "kampaniyalar",
       "slug": "kampaniyalar"
     },
     {
-      "id": "1",
+      "id": 1,
       "category": "papadias",
       "slug": "papadias"
     },
     {
-      "id": "2",
+      "id": 2,
       "category": "pizza",
       "slug": "pizza"
     },
     {
-      "id": "3",
+      "id": 3,
       "category": "qalyanaltilar",
       "slug": "qalyanaltilar"
     },
     {
-      "id": "4",
+      "id": 4,
       "category": "salat",
       "slug": "salat"
     },
     {
-      "id": "5",
+      "id": 5,
       "category": "pasta",
       "slug": "pasta"
     },
     {
-      "id": "6",
+      "id": 6,
       "category": "souses",
       "slug": "souses"
     },
     {
-      "id": "7",
+      "id": 7,
       "category": "icki",
       "slug": "icki"
     },
     {
-      "id": "8",
+      "id": 8,
       "category": "desertlar",
       "slug": "desertlar"
     }
